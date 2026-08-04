@@ -1,6 +1,7 @@
 ---
 name: Annika Pohlo
-role: alum
+role: research-assistant
+group: alum
 ---
 
 Annika was a research assistant in the Bodamer and Horlbeck labs at BCH advancing therapy development for Kabuki Syndrome.
