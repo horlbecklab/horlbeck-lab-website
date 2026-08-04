@@ -24,6 +24,9 @@ We are always looking to grow our team. We are looking for teammates of all scie
 
 {% include section.html %}
 
+## Lab alumni
+{% include list.html data="members" component="portrait" filter="role != 'principal-investigator' and group == 'alum'" %}
+
 ## Support 
 
 {% include list.html component="card" data="support" style="small" %}
