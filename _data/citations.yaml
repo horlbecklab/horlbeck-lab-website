@@ -88,11 +88,23 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: ppr:PPR667653
-  title: Europe PMC
-  authors: []
+  title: FET fusion oncoproteins disrupt physiologic DNA repair networks and induce
+    ATR synthetic lethality in cance
+  authors:
+  - Asmin Tulpule
+  - Shruti Menon
+  - Marcus Breese
+  - Yone Lin
+  - Hannah Allegakoen
+  - Shruthi Perati
+  - Ann Heslin
+  - Max Horlbeck
+  - Jonathan Weissman
+  - Alejandro Sweet-Cordero
+  - Trever Bivona
   publisher: ''
-  date: ''
-  link: https://europepmc.org/article/ppr/PPR667653
+  date: '2023-01-01'
+  link: https://doi.org/10.21203/rs.3.rs-2869150/v1
   orcid: 0000-0002-3875-871X
   plugin: orcid.py
   file: orcid.yaml
