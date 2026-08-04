@@ -20,7 +20,7 @@ We are always looking to grow our team. We are looking for teammates of all scie
 
 {% include list.html data="members" component="portrait" filter="role == 'principal-investigator'" %}
 {% include list.html data="members" component="portrait" filter="role != 'principal-investigator' and group != 'alum' and role != 'canine-support-technician'" %}
-{% include list.html data="members" component="portrait" filter="role != 'canine-support-technician'" %}
+{% include list.html data="members" component="portrait" filter="role == 'canine-support-technician'" %}
 
 
 {% include section.html %}
